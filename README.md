@@ -2,15 +2,15 @@
 
 📊 Exploratory Data Analysis | Customer Segmentation | Customer Analytics
 
-«A comprehensive data analysis project focused on customer behavior, purchasing patterns, customer segmentation, and Customer Lifetime Value (CLV) using Python and advanced data visualization techniques.»
+A comprehensive data analysis project focused on customer behavior, purchasing patterns, customer segmentation, and Customer Lifetime Value (CLV) using Python and advanced data visualization techniques.
 
-"Python" (https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-"Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-"NumPy" (https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-Visualization-orange)
-"Seaborn" (https://img.shields.io/badge/Seaborn-Statistical%20Analysis-blue)
-"Plotly" (https://img.shields.io/badge/Plotly-Interactive%20Charts-purple)
-"Status" (https://img.shields.io/badge/Status-Completed-success)
+"Python" 
+"Pandas" 
+"NumPy" 
+"Matplotlib" 
+"Seaborn" 
+"Plotly" 
+"Status" 
 
 ---
 

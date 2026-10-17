@@ -39,7 +39,7 @@ The primary goal is to transform raw customer data into meaningful insights that
 
 📂 3. Dataset Information
 
-📄 Dataset Name: "E-commerce_Customer_Segmentation_2.csv"
+📄 Dataset Name: "E-commerce_Customer_Segmentation_2026.xlsx"
 
 👥 Dataset Size: 1,000+ customers, as described for this project.
 
@@ -161,7 +161,7 @@ Follow these steps to run the project locally.
 Step 1: Clone the Repository
 
 git clone https://github.com/Vinushya169/Ecommerce-CLV-Analysis.git
-cd Ecommerce-CLV-Analysis
+
 
 Step 2: Install Dependencies
 
@@ -218,8 +218,6 @@ Ecommerce-CLV-Analysis/
 ---
 
 👨‍💻 12. Author
-
-Your Name
 
 🔗 GitHub: https://github.com/Vinushya169
 

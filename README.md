@@ -4,13 +4,13 @@
 
 A comprehensive data analysis project focused on customer behavior, purchasing patterns, customer segmentation, and Customer Lifetime Value (CLV) using Python and advanced data visualization techniques.
 
-"Python" 
-"Pandas" 
-"NumPy" 
-"Matplotlib" 
-"Seaborn" 
-"Plotly" 
-"Status" 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Analysis-4c72b0)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3f4f75?logo=plotly)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ---
 
